@@ -304,4 +304,56 @@ additional authorized cybersecurity exercises.
 
 ------------------------------------------------------------------------
 
-*Built as part of my hands-on cybersecurity learning journey.*
+*Kali-Cybersecurity-Lab
+
+My hands-on Cybersecurity Lab using VirtualBox and Kali Linux.
+
+This laboratory is intended strictly for educational purposes only.
+
+⸻
+
+🔗 Tools & Resources
+
+* VirtualBox: https://virtualbox.org/wiki/Downloads
+* Kali Linux: https://kali.org/get-kali
+  
+⸻
+
+👤 Author
+
+Musa-Mustapha Khakiqat
+
+Cybersecurity Student B084
+
+LinkedIn:
+https://www.linkedin.com/in/khakiqat-musa-mustapha-551905434
+
+⸻
+
+📌 Project Information
+
+Program Name: Cybersecurity at Networkwalks
+Week: 01
+Project: Cybersecurity & Pentesting Lab Setup
+Repository: GitHub
+
+⸻
+
+🎯 Project Objective
+
+To build a practical cybersecurity laboratory using VirtualBox and Kali Linux, configure network connectivity, and prepare a controlled environment for learning cybersecurity and penetration-testing fundamentals.
+
+⸻
+
+🧪 Lab Environment
+
+* Host Operating System: Windows
+* Virtualization Software: Oracle VirtualBox
+* Guest Operating System: Kali Linux
+* Network Configuration: NAT Network and manual IPv4 configuration
+
+⸻
+
+⚠️ Disclaimer
+
+All activities in this laboratory are for educational purposes and authorized testing only. Never test systems or networks without permission. as part of my hands-on cybersecurity learning journey.*
